@@ -1,0 +1,24 @@
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\obj\Debug\Constructora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\bin\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\obj\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Constructora\obj\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Algoritmos y Programacion\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Proyecto Constructora\Proyecto\Constructora\obj\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Proyecto\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Usuario\Desktop\Proyecto\Constructora\bin\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Proyecto\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Usuario\Desktop\Proyecto\Constructora\obj\Debug\Constructora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Constructora\obj\Debug\Constructora.exe
+C:\Users\Usuario\Desktop\Proyecto\Constructora\obj\Debug\Constructora.pdb
