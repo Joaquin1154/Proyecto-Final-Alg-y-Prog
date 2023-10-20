@@ -21,3 +21,12 @@ f) Modificar el estado de avance de una obra. Si el estado de avance llega al 10
 darse por finalizada, se elimina del listado de obras en ejecución y se guarda en obras
 finalizadas
 g) Listado de obras finalizadas.
+
+
+
+Se aplicaron Los temas vistos en la materia Algoritmos y Programación:
+
+Colecciones de datos.
+Tipos abstractos de datos.
+Programación Orientada a Objetos.
+Manejo de excepciones.
